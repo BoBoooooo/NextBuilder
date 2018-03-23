@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <namespaceclass>
+    <model>App.Clue.Entity</model>
+    <data>App.Clue.DALMySql</data>
+    <business>App.Clue.BLL</business>
+    <interface>App.Clue.IDAL</interface>
+    <factory />
+  </namespaceclass>
+</root>

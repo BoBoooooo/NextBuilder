@@ -1,0 +1,11 @@
+F:\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csprojResolveAssemblyReference.cache
